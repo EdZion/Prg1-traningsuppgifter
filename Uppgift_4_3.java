@@ -1,5 +1,5 @@
 /*
-Övning 4.2 i boken
+Övning 4.3 i boken
 2019-10-04
 Programmerare Alexander Holmström
 */
